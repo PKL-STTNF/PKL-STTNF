@@ -1,4 +1,4 @@
-# Log Journal Minggu 1
+# Log Journal Minggu 1 Bulan 1
 
 ## Hari/Tanggal
 Rabu 1 Juli 2026
@@ -8,4 +8,4 @@ Rabu 1 Juli 2026
 - Mempelajari Materi Tentang laravel & Filament
 
 ## Catatan 
-laravel mantap 
+ 
