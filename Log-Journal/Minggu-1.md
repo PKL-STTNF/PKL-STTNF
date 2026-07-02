@@ -17,7 +17,7 @@ Rabu 1 Juli 2026
 Kamis 2 Juli 2026
 
 ## Kegiatan/Pekerjaan 
--Membuat projek sederhana dari laravel & filament 
+- Membuat projek sederhana dari laravel & filament 
 
 ## Catatan 
 
