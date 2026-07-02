@@ -9,4 +9,16 @@ Rabu 1 Juli 2026
 
 ## Catatan 
 laravel mantap 
+
+
+# Log Journal Minggu 1 Bulan 1
+
+## Hari/Tanggal
+Kamis 2 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
+
+## Catatan 
+
  
