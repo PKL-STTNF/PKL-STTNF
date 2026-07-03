@@ -22,3 +22,15 @@ Kamis 2 Juli 2026
 ## Catatan 
 
  
+
+# Log Journal Minggu 1 Bulan 1
+
+## Hari/Tanggal
+Jumat 3 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
+
+## Catatan 
+
+ 
