@@ -29,7 +29,7 @@ Kamis 2 Juli 2026
 Jumat 3 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Masih membuat projek di laravel sama masih mempelajarinya  
 
 ## Catatan 
 
