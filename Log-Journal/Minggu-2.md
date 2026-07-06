@@ -4,6 +4,7 @@
 Senin 6 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Masih mempelajari laravel & Filament
+- Peresentasi yang di pelajari  
 
 ## Catatan 
