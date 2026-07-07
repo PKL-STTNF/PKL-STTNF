@@ -8,3 +8,14 @@ Senin 6 Juli 2026
 - Peresentasi yang di pelajari  
 
 ## Catatan 
+
+
+# Log Journal Minggu 2 Bulan 1
+
+## Hari/Tanggal
+Selasa 7 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
+
+## Catatan 
