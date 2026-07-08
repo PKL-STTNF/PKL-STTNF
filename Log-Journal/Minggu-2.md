@@ -28,5 +28,7 @@ Selasa 7 Juli 2026
 Rabu 8 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Membersihkan pc
+- Mempelajari materi laravel & Filament
+  
 ## Catatan 
