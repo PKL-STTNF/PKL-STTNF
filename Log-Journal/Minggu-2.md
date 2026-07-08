@@ -16,6 +16,17 @@ Senin 6 Juli 2026
 Selasa 7 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Ngrakit pc
+- Membersihkan pc
 
+## Catatan 
+
+
+# Log Journal Minggu 2 Bulan 1
+
+## Hari/Tanggal
+Rabu 8 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
 ## Catatan 
