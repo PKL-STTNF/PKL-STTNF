@@ -40,6 +40,6 @@ Rabu 8 Juli 2026
 Kamis 9 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Mempelajari sembari membuat projek jurnal pkl menggunakan laravel  
   
 ## Catatan 
