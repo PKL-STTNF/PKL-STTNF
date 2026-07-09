@@ -32,3 +32,14 @@ Rabu 8 Juli 2026
 - Mempelajari materi laravel & Filament
   
 ## Catatan 
+
+
+# Log Journal Minggu 2 Bulan 1
+
+## Hari/Tanggal
+Kamis 9 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
+  
+## Catatan 
