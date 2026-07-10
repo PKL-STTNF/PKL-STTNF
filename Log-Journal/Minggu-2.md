@@ -55,7 +55,7 @@ Kamis 9 Juli 2026
 jumat 10 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Ngelanjutin projek jurnal pkl menggunakan laravel
   
 ## Catatan 
 
