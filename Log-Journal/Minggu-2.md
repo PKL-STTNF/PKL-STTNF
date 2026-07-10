@@ -22,6 +22,7 @@ Selasa 7 Juli 2026
 
 ## Catatan 
 
+----------
 
 # Log Journal Minggu 2 Bulan 1
 
@@ -34,6 +35,7 @@ Rabu 8 Juli 2026
   
 ## Catatan 
 
+----------
 
 # Log Journal Minggu 2 Bulan 1
 
@@ -45,7 +47,7 @@ Kamis 9 Juli 2026
   
 ## Catatan 
 
-
+-------
 
 # Log Journal Minggu 2 Bulan 1
 
