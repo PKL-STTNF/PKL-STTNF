@@ -9,6 +9,7 @@ Senin 6 Juli 2026
 
 ## Catatan 
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Log Journal Minggu 2 Bulan 1
 
@@ -43,3 +44,16 @@ Kamis 9 Juli 2026
 - Mempelajari sembari membuat projek jurnal pkl menggunakan laravel  
   
 ## Catatan 
+
+
+
+# Log Journal Minggu 2 Bulan 1
+
+## Hari/Tanggal
+jumat 10 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- 
+  
+## Catatan 
+
