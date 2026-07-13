@@ -4,7 +4,7 @@
 Senin 13 Juli 2026
 
 ## Kegiatan/Pekerjaan 
--
+- Membuat desain web menggunakan figma
 
 ## Catatan 
 
