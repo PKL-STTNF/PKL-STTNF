@@ -16,7 +16,8 @@ Senin 13 Juli 2026
 Selasa 14 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- Mengecek webcam dan mik wireless
+- Mengecek webcam dan mic wireless
+- Masih membuat desain web di figma
 
 ## Catatan 
 
