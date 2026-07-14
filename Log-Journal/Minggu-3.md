@@ -10,3 +10,16 @@ Senin 13 Juli 2026
 
 **********
 
+# Log Journal Minggu 3 Bulan 1
+
+## Hari/Tanggal
+Selasa 14 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- Mengecek webcam dan mik wireless
+
+## Catatan 
+
+**********
+
+
