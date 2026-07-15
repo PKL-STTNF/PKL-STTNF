@@ -31,6 +31,7 @@ Rabu 15 Juli 2026
 
 ## Kegiatan/Pekerjaan 
 - Mengauplod codingan ke dalam github
+- Membantu Membuat vidio pembelajaran untuk dosen/pengajar  
 ## Catatan 
 
 **********
