@@ -24,3 +24,15 @@ Selasa 14 Juli 2026
 **********
 
 
+# Log Journal Minggu 3 Bulan 1
+
+## Hari/Tanggal
+Rabu 15 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- Mengauplod codingan ke dalam github
+## Catatan 
+
+**********
+
+
