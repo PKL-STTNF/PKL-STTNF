@@ -31,9 +31,23 @@ Rabu 15 Juli 2026
 
 ## Kegiatan/Pekerjaan 
 - Mengauplod codingan ke dalam github
-- Membantu Membuat vidio pembelajaran untuk dosen/pengajar  
+- Membantu Membuat vidio pembelajaran untuk dosen/pengajar
+  
 ## Catatan 
 
 **********
 
 
+# Log Journal Minggu 3 Bulan 1
+
+## Hari/Tanggal
+Kamis 16 Juli 2026
+
+## Kegiatan/Pekerjaan 
+- Inventaris barang upt lep
+- Membersihkan pc 
+
+
+## Catatan 
+
+**********
