@@ -51,3 +51,19 @@ Kamis 16 Juli 2026
 ## Catatan 
 
 **********
+
+
+# Log Journal Minggu 3 Bulan 1
+
+## Hari/Tanggal
+Jumat Juli 2026
+
+## Kegiatan/Pekerjaan 
+-  inventaris leptop chromebook
+-  Memasang proyektor dan mengganti monitor id ruangan
+
+
+
+## Catatan 
+
+**********
