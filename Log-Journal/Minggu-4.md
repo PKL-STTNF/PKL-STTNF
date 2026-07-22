@@ -28,7 +28,7 @@ Selasa 21 Juli 2026
 # Log Journal Minggu 4 Bulan 1
 
 ## Hari/Tanggal
-Senin 20 Juli 2026
+Rabu 22 Juli 2026
 
 ## Kegiatan/Pekerjaan 
 - Membersihkan leptop
