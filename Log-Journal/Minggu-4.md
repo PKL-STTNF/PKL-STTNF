@@ -31,7 +31,7 @@ Selasa 21 Juli 2026
 Senin 20 Juli 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Membersihkan leptop
 
 ## Catatan 
 
