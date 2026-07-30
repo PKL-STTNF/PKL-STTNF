@@ -17,8 +17,8 @@ kamis 30 Juli 2026
 
 ## Kegiatan/Pekerjaan 
 - Membuat modul
-- Membeli termapes
-- me  
+- Membeli Thermal paste
+- Pemeriksaan kelas 
 
 ## Catatan 
 
