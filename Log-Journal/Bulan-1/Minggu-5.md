@@ -1,5 +1,5 @@
 
-# Log Journal Minggu 4 Bulan 1
+# Log Journal Minggu 5 Bulan 1
 
 ## Hari/Tanggal
 Selasa 28 Juli 2026
@@ -11,7 +11,7 @@ Selasa 28 Juli 2026
 
 **********
 
-# Log Journal Minggu 4 Bulan 1
+# Log Journal Minggu 5 Bulan 1
 
 ## Hari/Tanggal
 kamis 30 Juli 2026
@@ -25,7 +25,7 @@ kamis 30 Juli 2026
 
 **********
 
-# Log Journal Minggu 4 Bulan 1
+# Log Journal Minggu 5 Bulan 1
 
 ## Hari/Tanggal
 Jumat 31 Juli 2026
