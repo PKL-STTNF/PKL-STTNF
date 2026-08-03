@@ -1,4 +1,3 @@
-
 # Log Journal Minggu 5 Bulan 1
 
 ## Hari/Tanggal
