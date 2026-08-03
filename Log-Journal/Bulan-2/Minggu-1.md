@@ -6,7 +6,8 @@ Senin 3 Agustus 2026
 ## Kegiatan/Pekerjaan 
 - Presentasi di ltsi 
 - Memindahkan pc dan monitor dari sdm ke BSP 
-- 
+- Membuat gambaran lanjutan web jurnal
+- Membuat login dan register  
 ## Catatan 
 
 **********
