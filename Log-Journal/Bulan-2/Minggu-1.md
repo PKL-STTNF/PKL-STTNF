@@ -12,3 +12,16 @@ Senin 3 Agustus 2026
 
 **********
 
+
+# Log Journal Minggu 5 Bulan 1
+
+## Hari/Tanggal
+Selasa 4 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Membawa leptop lenovo thinkpad ke upt kampus B
+- Melanjutkan projek web jurnal
+- 
+## Catatan 
+
+**********
