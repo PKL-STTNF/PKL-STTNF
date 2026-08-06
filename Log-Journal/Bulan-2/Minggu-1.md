@@ -29,12 +29,28 @@ Selasa 4 Agustus 2026
 
 # Log Journal Minggu 5 Bulan 1
 
+
 ## Hari/Tanggal
 Rabu 5 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
 - Melanjutkan projek web jurnal
 - Maintenance leptop chromebook
+  
+## Catatan 
+
+**********
+
+# Log Journal Minggu 5 Bulan 1
+
+
+## Hari/Tanggal
+Kamis 6 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Melanjutkan projek web jurnal
+- Maintenance pc aio
+- Membersihkan mesin penghitung uang 
   
 ## Catatan 
 
