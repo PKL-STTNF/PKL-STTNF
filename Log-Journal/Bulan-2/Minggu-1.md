@@ -61,7 +61,7 @@ Jumat 7 Agustus 2026
 ## Kegiatan/Pekerjaan 
 - Melanjutkan projek web jurnal
 - Pengecekan ruangan kelas
-- 
+- Memindahkan pc upt ke gudang 
   
 ## Catatan 
 
