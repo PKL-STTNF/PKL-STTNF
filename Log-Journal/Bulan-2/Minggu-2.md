@@ -4,7 +4,7 @@
 Senen 10 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Melanjutkan projek jurnal pkl
    
 ## Catatan 
 
