@@ -17,7 +17,10 @@ Selasa 11 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
 - Melanjutkan projek jurnal pkl
+- update driver printer 
    
 ## Catatan 
 
 **********
+
+
