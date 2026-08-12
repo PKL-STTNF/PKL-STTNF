@@ -31,6 +31,7 @@ Rabu 12 Agustus 2026
 ## Kegiatan/Pekerjaan 
 - Melanjutkan projek jurnal pkl
 - Pengecekan tv di ruangan link & metch
+- Perawatan mic wireless
    
 ## Catatan 
 
