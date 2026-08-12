@@ -23,4 +23,18 @@ Selasa 11 Agustus 2026
 
 **********
 
+# Log Journal Minggu 2 Bulan 2
+
+## Hari/Tanggal
+Rabu 12 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Melanjutkan projek jurnal pkl
+- Pengecekan tv di ruangan link & metch
+   
+## Catatan 
+
+**********
+
+
 
