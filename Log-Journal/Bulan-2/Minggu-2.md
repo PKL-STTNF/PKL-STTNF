@@ -38,4 +38,15 @@ Rabu 12 Agustus 2026
 **********
 
 
+# Log Journal Minggu 2 Bulan 2
 
+## Hari/Tanggal
+Kamis 13 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Melanjutkan projek jurnal pkl
+- maintance kelas 
+   
+## Catatan 
+
+**********
