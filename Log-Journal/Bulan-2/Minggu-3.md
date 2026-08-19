@@ -8,3 +8,15 @@ Selasa 18 Agustus 2026
 ## Catatan 
 
 **********
+
+
+## Hari/Tanggal
+Rabu 19 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Membersihkan pc perpustakaan
+- Maintenance monitor perpustakaan 
+   
+## Catatan 
+
+**********
