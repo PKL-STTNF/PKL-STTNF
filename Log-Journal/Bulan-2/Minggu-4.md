@@ -1,8 +1,18 @@
 ## Hari/Tanggal
-Senen 24 Agustus 2026
+Senin 24 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
 - Memperbaiki tampilan website jurnaal pkl
+   
+## Catatan 
+
+**********
+
+## Hari/Tanggal
+Selasa 24 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- unboXing paket tripot webcame 
    
 ## Catatan 
 
