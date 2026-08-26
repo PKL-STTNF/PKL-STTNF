@@ -12,7 +12,8 @@ Senin 24 Agustus 2026
 Selasa 26 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
-- unboXing paket tripot webcame 
+- unboXing paket tripot webcame
+- Membetulkan webnya yang eror
    
 ## Catatan 
 
