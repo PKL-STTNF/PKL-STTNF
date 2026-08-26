@@ -9,7 +9,7 @@ Senin 24 Agustus 2026
 **********
 
 ## Hari/Tanggal
-Selasa 26 Agustus 2026
+Rabu 26 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
 - unboXing paket tripot webcame
