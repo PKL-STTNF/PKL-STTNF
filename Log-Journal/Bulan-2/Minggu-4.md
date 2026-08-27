@@ -18,3 +18,13 @@ Rabu 26 Agustus 2026
 ## Catatan 
 
 **********
+
+## Hari/Tanggal
+Kamis 27 Agustus 2026
+
+## Kegiatan/Pekerjaan 
+- Membetulkan halaman web yang eror
+   
+## Catatan 
+
+**********
