@@ -23,7 +23,8 @@ Rabu 26 Agustus 2026
 Kamis 27 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
-- Membetulkan halaman web yang eror
+- Membetulkan halaman web yang 
+- Maintenanc kelas 
    
 ## Catatan 
 
