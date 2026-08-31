@@ -44,7 +44,7 @@ Jumat 28 Agustus 2026
 Senin 31 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
-- 
+- Presentasi di ltsi
 ## Catatan 
 
 **********
