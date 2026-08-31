@@ -45,6 +45,8 @@ Senin 31 Agustus 2026
 
 ## Kegiatan/Pekerjaan 
 - Presentasi di ltsi
+- Perinting kabel
+  
 ## Catatan 
 
 **********
