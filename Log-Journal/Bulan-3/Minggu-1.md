@@ -1,7 +1,8 @@
 ## Hari/Tanggal
-Jumat 28 Agustus 2026
+Selasa 1 september 2026
 ## Kegiatan/Pekerjaan 
-- Ngasih nama ke kartu 
+- Ngeseting proyektor
+- Memperbaiki ui 
 
 ## Catatan 
 **********
