@@ -11,7 +11,7 @@ Selasa 1 september 2026
 Rabu 2 september 2026
 ## Kegiatan/Pekerjaan 
 - Mengupload pembaruan web jurnal
-- instalsai listrik 
+- Membantu instalsai listrik di ruangan 110
 
 ## Catatan 
 **********
