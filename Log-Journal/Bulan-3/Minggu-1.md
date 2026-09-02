@@ -10,7 +10,8 @@ Selasa 1 september 2026
 ## Hari/Tanggal
 Rabu 2 september 2026
 ## Kegiatan/Pekerjaan 
-- Mengupload pembaruan web jurnal 
+- Mengupload pembaruan web jurnal
+- instalsai listrik 
 
 ## Catatan 
 **********
