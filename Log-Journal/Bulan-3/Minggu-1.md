@@ -6,3 +6,11 @@ Selasa 1 september 2026
 
 ## Catatan 
 **********
+
+## Hari/Tanggal
+Rabu 2 september 2026
+## Kegiatan/Pekerjaan 
+- Mengupload pembaruan web jurnal 
+
+## Catatan 
+**********
