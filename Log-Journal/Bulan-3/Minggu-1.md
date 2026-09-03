@@ -19,7 +19,8 @@ Rabu 2 september 2026
 ## Hari/Tanggal
 Kamis 3 september 2026 
 ## Kegiatan/Pekerjaan 
--
+- Masih mengupload pembaruan web jurnal
+- Mengganti pembuangan warna printer 
 
 ## Catatan 
 **********
