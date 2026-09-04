@@ -30,7 +30,7 @@ Kamis 3 september 2026
 Jumat 4 september 2026 
 ## Kegiatan/Pekerjaan 
 - Maintenance kelas
-- Menginstalasi listrik di ruangan 110
+- Nginstalasi listrik di ruangan 110
 - Ngebenerin printer yang tulisanya garis garis 
 
 ## Catatan 
