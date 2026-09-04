@@ -29,7 +29,8 @@ Kamis 3 september 2026
 ## Hari/Tanggal
 Jumat 4 september 2026 
 ## Kegiatan/Pekerjaan 
-- 
+- Maintenance kelas
+- Menginstalasi listrik di ruangan 110
 
 ## Catatan 
 **********
