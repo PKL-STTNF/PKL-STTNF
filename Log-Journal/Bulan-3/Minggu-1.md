@@ -20,7 +20,7 @@ Rabu 2 september 2026
 Kamis 3 september 2026 
 ## Kegiatan/Pekerjaan 
 - Masih mengupload pembaruan web jurnal
-- Mengganti pembuangan warna printer 
+- Mengganti filter pembuangan warna printer 
 
 ## Catatan 
 **********
@@ -31,6 +31,7 @@ Jumat 4 september 2026
 ## Kegiatan/Pekerjaan 
 - Maintenance kelas
 - Menginstalasi listrik di ruangan 110
+- Ngebenerin printer yang tulisanya garis garis 
 
 ## Catatan 
 **********
