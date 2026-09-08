@@ -11,6 +11,7 @@ Senin 7 september 2026
 ## Hari/Tanggal
 Selasa 8 september 2026
 ## Kegiatan/Pekerjaan  
+- Laminating kertas
 - instalasi liatrik di ruangan 110
   
 ## Catatan 
