@@ -7,3 +7,11 @@ Senin 7 september 2026
   
 ## Catatan 
 **********
+
+## Hari/Tanggal
+Selasa 8 september 2026
+## Kegiatan/Pekerjaan  
+- instalasi liatrik di ruangan 110
+  
+## Catatan 
+**********
