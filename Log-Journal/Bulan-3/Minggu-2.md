@@ -16,3 +16,21 @@ Selasa 8 september 2026
   
 ## Catatan 
 **********
+
+## Hari/Tanggal
+Kamis 10 september 2026
+## Kegiatan/Pekerjaan  
+- Ngebongkar dan membersihkan pc
+  
+## Catatan 
+**********
+
+## Hari/Tanggal
+Jumat 11 september 2026
+## Kegiatan/Pekerjaan  
+- Maintenence kelas
+- Ngebongkar pc
+- instalasi listrik di ruangan 110
+  
+## Catatan 
+**********
